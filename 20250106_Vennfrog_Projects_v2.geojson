@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "20250106_Vennfrog_Projects_v2",
+"name": "20250402_Vennfrog_Projects_v3",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "ProjectDescription": "2 1/2 Sales Support for Dalkia US", "City": "San Antonio", "State": "Texas", "Country": "United States", "Year": 2024, "Scope": "Guided Dalkia through a successful CPS Energy sales cycle by creating a dynamic pitch deck for city and utility leaders, designing a comprehensive financial model, assessing infrastructure, and co-authoring the RFP response." }, "geometry": { "type": "Point", "coordinates": [ -98.49114, 29.424349 ] } },
@@ -15,7 +15,6 @@
 { "type": "Feature", "properties": { "ProjectDescription": "Market Study", "City": "MinebeaMitsumi", "State": null, "Country": "Japan", "Year": 2023, "Scope": "Conducted an in-depth market study and assessed the viability of a product for the US market" }, "geometry": { "type": "Point", "coordinates": [ 139.782871730000011, 35.70759418 ] } },
 { "type": "Feature", "properties": { "ProjectDescription": "Stimulation of P3 Projects", "City": "Washington", "State": "D.C.", "Country": "United States", "Year": 2014, "Scope": "Prepared a robust financial model, developed compelling presentations and commercial materials, and structured P3 trusts and SPVs—laying the groundwork for an effective RFP response." }, "geometry": { "type": "Point", "coordinates": [ -77.009056, 38.889805 ] } },
 { "type": "Feature", "properties": { "ProjectDescription": "Photometric Study", "City": "Saltillo", "State": "Coahuila", "Country": "Mexico", "Year": 2018, "Scope": null }, "geometry": { "type": "Point", "coordinates": [ -101.001, 25.4226 ] } },
-{ "type": "Feature", "properties": { "ProjectDescription": null, "City": "Barcelona", "State": "Catalunya", "Country": "Spain", "Year": null, "Scope": null }, "geometry": { "type": "Point", "coordinates": [ 2.154007, 41.390205 ] } },
 { "type": "Feature", "properties": { "ProjectDescription": "Energy Efficiency Study", "City": "Saint-Maur-des-Fossés", "State": "Ile-de-France", "Country": "France", "Year": 2020, "Scope": "Carried out an energy efficiency study." }, "geometry": { "type": "Point", "coordinates": [ 2.48511512, 48.80340996 ] } },
 { "type": "Feature", "properties": { "ProjectDescription": "Energy Efficiency Study", "City": "Montceau-les-Mines", "State": "Bourgogne-Franche-Comté", "Country": "France", "Year": 2020, "Scope": "Carried out an energy efficiency study." }, "geometry": { "type": "Point", "coordinates": [ 4.36317907, 46.67408149 ] } },
 { "type": "Feature", "properties": { "ProjectDescription": "Vision Zero Analysis", "City": "Nueces County", "State": "Texas", "Country": "United States", "Year": 2022, "Scope": "Identified high-fatality hotspots in Nueces County to advance Vision Zero objectives and enhance traffic safety." }, "geometry": { "type": "Point", "coordinates": [ -97.40671192, 27.76400817 ] } },
